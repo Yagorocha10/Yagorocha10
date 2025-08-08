@@ -1,11 +1,10 @@
 # Hello!! I'm Yago rocha!!
 
-I work as a software developer with solid experience in Java, Spring Boot, and microservices architecture. I develop and maintain scalable and resilient solutions, always focusing on performance, security, and stability.
-
-My experience includes RabbitMQ, Docker, and AWS, working in cloud environments and integrating distributed services. I have a proven track record of implementing best development practices to deliver efficient, reliable applications aligned with business needs.
-
-In addition to back-end development, I am currently working as a front-end developer, using HTML, CSS, and JavaScript to create functional and responsive interfaces.
-I am constantly seeking to improve my technical skills and contribute to high-impact projects.
+- Software Engineer Student at Universidade UNAMA.
+- Member of the 9th cohort of the Oracle Next Education (ONE) program.
+- Experienced back-end developer focused on Java, Spring Boot, and microservices architecture.
+- Skilled in RabbitMQ, Docker, and AWS for building scalable distributed systems.
+- Currently working on an international project as a front-end developer, creating functional and responsive websites using HTML, CSS, and JavaScript.
 
 <div align="center">
   <a href="https://github.com/Yagorocha10">
